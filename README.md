@@ -11,4 +11,6 @@
 
 - 💼 I'm currently open to offers of employment
 
+- 💡 I'm currently working on new projects
+
 - 📫 You can contact me at : denisgusevoficial@gmail.com
