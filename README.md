@@ -1,4 +1,4 @@
-# <div align="center">Full Stack Developer / Javascript</div>
+# <div align="center">Frontend Developer / Javascript</div>
 
 ### <div align="center">Welcome to my profile!</div>
 <div align="center">
