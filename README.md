@@ -7,7 +7,7 @@
 </a>
 </div>
 
-- 🌱 I’m currently learning Angular and Vue.js
+- 🌱 I’m currently learning React and Typescript
 
 - 💼 I'm currently open to offers of employment
 
