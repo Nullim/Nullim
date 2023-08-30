@@ -7,10 +7,10 @@
 </a>
 </div>
 
-- 🌱 I’m currently learning React and Typescript
+- 🌱 I’m currently learning TailwindCSS and Typescript
 
 - 💼 I'm currently open to offers of employment
 
-- 💡 I'm currently working on new projects
+- 💡 I'm currently working on a personal project (ask me about it!).
 
 - 📫 You can contact me at : denisgusevoficial@gmail.com
