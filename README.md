@@ -7,7 +7,7 @@
 </a>
 </div>
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Apex and LWC
 
 - 💼 I'm currently open to offers of employment
 
