@@ -13,4 +13,4 @@
 
 - 💡 I'm currently working on a personal project (ask me about it!).
 
-- 📫 You can contact me at : denisgusevoficial@gmail.com
+- 📫 You can contact me at : nullimreal@gmail.com
