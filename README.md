@@ -7,10 +7,10 @@
 </a>
 </div>
 
-- 🌱 I’m currently learning Apex and LWC
+- 🌱 I’m currently learning Unity and C#.
 
-- 💼 I'm currently open to offers of employment
+- 💼 I'm open for offers.
 
-- 💡 I'm currently working on a personal project (ask me about it!).
+- 💡 I'm currently studying game development.
 
 - 📫 You can contact me at : nullimreal@gmail.com
